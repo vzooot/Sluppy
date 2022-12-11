@@ -4,7 +4,7 @@
 workspace "Sluppy.xcodeproj/project.xcworkspace"
 scheme "Sluppy"
 sdk "iphonesimulator"
-device "iPhone 14"
+device "iPhone 11"
 code_coverage true
 xcargs '-parallelizeTargets'
 prelaunch_simulator true
